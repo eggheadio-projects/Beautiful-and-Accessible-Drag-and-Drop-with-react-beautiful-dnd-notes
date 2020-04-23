@@ -1,4 +1,4 @@
-## [Lesson 4](https://egghead.io/lessons/react-reorder-a-list-with-react-beautiful-dnd)
+## :movie_camera: [Lesson 4](https://egghead.io/lessons/react-reorder-a-list-with-react-beautiful-dnd)
 
 We start by downloading and adding `react-beautiful-dnd` to our `package.json` and wrap our column in `index.js` with a `Container`.
 On Container, we only want one thing, `onDragEnd` which we are going to leave blank for now. 
@@ -156,7 +156,8 @@ export default class Task extends React.Component {
 }
 ```
 
-Here we run into a deprecation. I wasn't able to drag and drop like the instructor was able to. To fix this issue, simply change `innerRef` inside of `column.js` and `task.jsx` to just `ref` and it'll work perfectly. I noticed this looking at this [article](https://medium.com/@reireynoso/drag-ndrop-with-react-beautiful-dnd-73014e5937f2) and seeing the subtle difference. [Here](https://github.com/atlassian/react-beautiful-dnd/blob/master/docs/guides/using-inner-ref.md) some more documentation on how to use innerRef. 
+:warning:
+Here we run into a deprecation. I wasn't able to drag and drop like the instructor was able to. To fix this issue, simply change `innerRef` inside of `column.js` and `task.jsx` to just `ref` and it'll work perfectly. I noticed this looking at this :thinking_face: [article](https://medium.com/@reireynoso/drag-ndrop-with-react-beautiful-dnd-73014e5937f2) and seeing the subtle difference. :thinking_face: [Here](https://github.com/atlassian/react-beautiful-dnd/blob/master/docs/guides/using-inner-ref.md) some more documentation on how to use innerRef. 
 
 
 Here is my complete column.js and task.jsx files at this point. 

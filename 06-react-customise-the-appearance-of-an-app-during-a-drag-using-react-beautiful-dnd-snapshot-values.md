@@ -1,4 +1,4 @@
-## [Lesson 6](https://egghead.io/lessons/react-customise-the-appearance-of-an-app-during-a-drag-using-react-beautiful-dnd-snapshot-values)
+## :movie_camera: [Lesson 6](https://egghead.io/lessons/react-customise-the-appearance-of-an-app-during-a-drag-using-react-beautiful-dnd-snapshot-values)
 
 Now we are going to be working on customizing the appearance of an app during a drag. 
 
@@ -78,5 +78,4 @@ const TaskList = styled.div`
   transition: background-color 0.2s ease;
   background-color: ${props => (props.isDraggingOver ? 'skyblue' : 'white')};
 `;
-
 ```

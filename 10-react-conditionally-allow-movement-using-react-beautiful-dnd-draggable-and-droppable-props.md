@@ -1,4 +1,4 @@
-## [Lesson 10] (https://egghead.io/lessons/react-conditionally-allow-movement-using-react-beautiful-dnd-draggable-and-droppable-props)
+## :movie_camera: [Lesson 10](https://egghead.io/lessons/react-conditionally-allow-movement-using-react-beautiful-dnd-draggable-and-droppable-props)
 
 There is basically an on/off switch to components to allow them to be dragged or not. To do this, we use `isDragDisabled`.
 

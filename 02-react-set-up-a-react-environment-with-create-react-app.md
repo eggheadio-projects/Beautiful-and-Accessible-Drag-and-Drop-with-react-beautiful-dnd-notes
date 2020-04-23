@@ -1,4 +1,4 @@
-## [Lesson 2](https://egghead.io/lessons/react-set-up-a-react-environment-with-create-react-app)
+## :movie_camera: [Lesson 2](https://egghead.io/lessons/react-set-up-a-react-environment-with-create-react-app)
 
 Went though this lesson and everything worked just fine. 
 

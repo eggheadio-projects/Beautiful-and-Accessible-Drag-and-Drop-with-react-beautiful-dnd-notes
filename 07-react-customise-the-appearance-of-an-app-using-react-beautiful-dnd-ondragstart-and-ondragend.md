@@ -1,4 +1,4 @@
-## [Lesson 7](https://egghead.io/lessons/react-customise-the-appearance-of-an-app-using-react-beautiful-dnd-ondragstart-and-ondragend)
+## :movie_camera: [Lesson 7](https://egghead.io/lessons/react-customise-the-appearance-of-an-app-using-react-beautiful-dnd-ondragstart-and-ondragend)
 
 We've looked at `onDragEnd` so far but there are two others, `onDragUpdate` and `onDragStart`. We can do things like change the text color when we start to drag something and have it change back to normal once the drag has ended. 
 

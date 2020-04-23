@@ -1,4 +1,4 @@
-## [Lesson 3](https://egghead.io/lessons/react-create-and-style-a-list-of-data-with-react)
+## :movie_camera: [Lesson 3](https://egghead.io/lessons/react-create-and-style-a-list-of-data-with-react)
 
 Created a file inside of `src` called `initial-data.js` where we are going to hold all of our static data, sort and name each task, separate them into columns, and export them. 
 

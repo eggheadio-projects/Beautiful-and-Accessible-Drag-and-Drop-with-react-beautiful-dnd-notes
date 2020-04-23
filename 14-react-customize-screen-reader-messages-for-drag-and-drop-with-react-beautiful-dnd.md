@@ -1,10 +1,10 @@
-## [Lesson 14](https://egghead.io/lessons/react-customize-screen-reader-messages-for-drag-and-drop-with-react-beautiful-dnd)
+## :movie_camera: [Lesson 14](https://egghead.io/lessons/react-customize-screen-reader-messages-for-drag-and-drop-with-react-beautiful-dnd)
 
 In this lesson, we are going to be talking about customizing the screen reader and its messages. 
 
 On a mac, the way to turn screen reader on is to go to your `System Preferences`, click on `Accessibility`, click on `VoiceOver` on the left of the window, then click the `Enable VoiceOver` button. The shortcut for this is `CMD+F5`. 
 
-On a windows 10 device, there are three way to turn this option on. I'm just going to link it [here](https://support.microsoft.com/en-us/help/4028598/windows-10-start-or-stop-narrator) and you can follow those instructions. 
+On a windows 10 device, there are three way to turn this option on. I'm just going to link it :thinking_face: [here](https://support.microsoft.com/en-us/help/4028598/windows-10-start-or-stop-narrator) and you can follow those instructions. 
 
 This lesson is a good example for how you can change messages but the examples that he used are already implemented in the VoiceOver. 
 

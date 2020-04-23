@@ -1,4 +1,4 @@
-## [Lesson 8](https://egghead.io/lessons/react-designate-control-of-dragging-for-a-react-beautiful-dnd-draggable-with-draghandleprops)
+## :movie_camera: [Lesson 8](https://egghead.io/lessons/react-designate-control-of-dragging-for-a-react-beautiful-dnd-draggable-with-draghandleprops)
 
 The `dragHandleProps` is what is allowing us to click anywhere on our Task component to drag our tasks throughout our list. If we wanted to, we could create a little box inside of our Task box to be the only place we could click and drag our task. 
 

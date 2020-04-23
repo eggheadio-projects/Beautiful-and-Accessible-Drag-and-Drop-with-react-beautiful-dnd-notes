@@ -1,4 +1,4 @@
-## [Lesson 13](https://egghead.io/lessons/react-optimize-performance-in-react-beautiful-dnd-with-shouldcomponentupdate-and-purecomponent)
+## :movie_camera: [Lesson 13](https://egghead.io/lessons/react-optimize-performance-in-react-beautiful-dnd-with-shouldcomponentupdate-and-purecomponent)
 
 For this lesson, we are going to be spending a good bit of time on the browser using dev tools and their Highlight Updates feature. As it so happens, in an update for dev tools last year, this feature was taken out. A comparable application is the `Profiler` tab in dev tools. Hit record and then do your thing. It will record the actions taken on the browser as well as all of the different interactions between components and what happens behind the scenes. Using this will get you basically the same output. 
 
@@ -114,7 +114,7 @@ class InnerList extends React.Component {
 }
 ```
 
-None of these should change when a column is dragged so a render shouldn't happen. To shorten this up, we change `React.Component` to `React.PureComponent` and it'll do everything inside of that `shouldcomponentUpdate` for us. 
+None of these should change when a column is dragged so a render shouldn't happen. To shorten this up, we change `React.Component` to `React.PureComponent` and it'll do everything inside of that `shouldComponentUpdate` for us. 
 
 ```js
 class InnerList extends React.PureComponent {

@@ -1,4 +1,4 @@
-## [Lesson 11](https://egghead.io/lessons/react-create-reorderable-horizontal-lists-with-react-beautiful-dnd-direction-prop)
+## :movie_camera: [Lesson 11](https://egghead.io/lessons/react-create-reorderable-horizontal-lists-with-react-beautiful-dnd-direction-prop)
 
 We are going to start this lesson off by deleting our second and third column and removing their id's from the columnOrder in `initial-data.js`. 
 

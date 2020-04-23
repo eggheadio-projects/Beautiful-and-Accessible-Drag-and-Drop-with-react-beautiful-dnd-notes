@@ -1,4 +1,4 @@
-## [Lesson 9](https://egghead.io/lessons/react-move-items-between-columns-with-react-beautiful-dnd-using-ondragend)
+## :movie_camera: [Lesson 9](https://egghead.io/lessons/react-move-items-between-columns-with-react-beautiful-dnd-using-ondragend)
 
 Here we are going to be adding in two more columns, an in progress and done column. We can just quickly add those  in our `initial-data.js` file. 
 
@@ -154,4 +154,4 @@ this.setState(newState);
 
 Don't forget to change your `column` to either `start` or `finish` and correct the logic that was using `column` anywhere else in this file. I forgot to do that and took a decent chunk of time figuring out where I missed that. 
 
-Also this still works for keyboard. [Here](https://github.com/atlassian/react-beautiful-dnd/blob/master/docs/sensors/keyboard.md) is some documentation on that and shortcuts.
+Also this still works for keyboard. :thinking_face: [Here](https://github.com/atlassian/react-beautiful-dnd/blob/master/docs/sensors/keyboard.md) is some documentation on that and shortcuts.

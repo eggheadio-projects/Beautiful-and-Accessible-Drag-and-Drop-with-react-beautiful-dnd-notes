@@ -1,4 +1,4 @@
-## [Lesson 12](https://egghead.io/lessons/react-reorder-columns-with-react-beautiful-dnd)
+## :movie_camera: [Lesson 12](https://egghead.io/lessons/react-reorder-columns-with-react-beautiful-dnd)
 
 Now we are going to work on being able to reorder our columns. 
 
@@ -141,8 +141,6 @@ if(type === 'column') {
   const newColumnOrder = Array.from(this.state.columnOrder);
   newColumnOrder.splice(source.index, 1);
   newColumnOrder.splice(destination.index, 0, draggableId);
-
-  
 }
 ```
 
