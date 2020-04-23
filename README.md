@@ -6,8 +6,8 @@ I highly recommend making a commit after each lesson because at the start of som
 
 I really enjoyed taking this course. It was a lot of fun learning all the different aspects that the instructor taught. I haven't taken a course like this and learning about an app that I can drag and drop and reorder things was a lot of fun. # Beautiful-and-Accessible-Drag-and-Drop-with-react-beautiful-dnd-notes
 
-| EMOJI TABLE  |
-|---|---|
-| :WARNING:  | Deprecated code |
-| :movie_camera:  | Lesson Video |
-|   |   |
+
+|  EMOJI      	    |   Definition        |
+|:-:	              |---	                |
+|  :warning: 	      |   Deprecated code 	|
+|  :movie_camera: 	|   Lesson Video	    |
