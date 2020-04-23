@@ -11,4 +11,4 @@ I really enjoyed taking this course. It was a lot of fun learning all the differ
 |:-:	              |---	                |
 |  :warning: 	      |   Deprecated code 	|
 |  :movie_camera: 	|   Lesson Video	    |
-|  :thinking_face:  |   Resource          |
+|  :thinking:       |   Resource          |
