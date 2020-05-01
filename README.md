@@ -52,3 +52,5 @@ Following the course, you’ll be ready to build powerful dnd experiences into y
 |  :warning: 	      |   Deprecated code 	|
 |  :movie_camera: 	|   Lesson Video	    |
 |  :thinking:       |   Resource          |
+
+adding contributor bot test
