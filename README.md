@@ -1,5 +1,6 @@
-# [Beautiful and Accessible Drag and Drop with react-beautiful-dnd](https://egghead.io/courses/beautiful-and-accessible-drag-and-drop-with-react-beautiful-dnd)
+<h1 align="center"><a href="https://egghead.io/courses/beautiful-and-accessible-drag-and-drop-with-react-beautiful-dnd"> Beautiful and Accessible Drag and Drop with react-beautiful-dnd </a></h1>
 
+<p align="center"><img src="https://d2eip9sf3oo6c2.cloudfront.net/series/square_covers/000/000/209/full/React_Dnd_Final.png" width="300"/></p>
 
 # My Take
 
