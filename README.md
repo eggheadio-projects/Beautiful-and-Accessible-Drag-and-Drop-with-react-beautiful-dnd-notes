@@ -46,9 +46,21 @@ Following the course, you’ll be ready to build powerful dnd experiences into y
 - [14. Customize Screen Reader Messages for Drag and Drop with react-beautiful-dnd](14-react-customize-screen-reader-messages-for-drag-and-drop-with-react-beautiful-dnd.md)
 
 
-
 |  EMOJI      	    |   Definition        |
 |:-:	              |---	                |
 |  :warning: 	      |   Deprecated code 	|
 |  :movie_camera: 	|   Lesson Video	    |
 |  :thinking:       |   Resource          |
+
+## Contribute
+
+- These are community notes that I hope everyone who studies benefits from.
+- If you notice areas that could be improved please **feel free to open a PR**!
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+<table>
+  <td align="center"><a href="https://github.com/lsminter"><img src="https://avatars2.githubusercontent.com/u/26470581?s=400&u=89e0c4f7db5c054125a372dc17b4590e297ac20d&v=4" width="100px;" alt=""/><br /><sub><b>Lucas Minter</b></sub></a><br /><a href="#review-lsminter" title="Review">👀</a>  </td>
+    </td>
+</table>
