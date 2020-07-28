@@ -81,7 +81,7 @@ We can make it so that tasks can only be dropped to the right of where they star
 onDragStart = start => {
   const homeIndex = this.state.columnOrder.indexOf(start.source.droppableId);
 
-  this.setstate({
+  this.setState({
     homeIndex,
   });
 };
@@ -106,7 +106,7 @@ We now bind our `onDragStart` function to `theDragDropContext` at the bottom of 
 >
 ```
 
-We are going to get the `index` of the column from our map function as well as creating a function called `isDropDisabled`. It will be set to true when the index of our map function is less than the index of the column that we started on.
+We are going to get the `index` of the column from our map function as well as create a function called `isDropDisabled`. It will be set to true when the index of our map function is less than the index of the column that we started on.
 
 ```js
 {this.state.columnOrder.map((columnId, index) => {
@@ -115,7 +115,7 @@ We are going to get the `index` of the column from our map function as well as c
   
   const isDropDisabled = index < this.state.homeIndex;
 
-  return <Column key={column.id} column={column} tasks={tasks} />;
+  return <Column key={column.id} column={column} tasks={tasks} isDropDisabled={isDropDisabled} />;
 })}
 ```
 
