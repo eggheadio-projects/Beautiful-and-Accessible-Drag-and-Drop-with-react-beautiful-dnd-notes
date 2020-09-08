@@ -14,7 +14,7 @@ class App extends React.Component {
   render() {
     return (
       <DragDropContext
-
+        onDragEnd={this.onDragEnd}
       >
         {this.state.columnOrder.map((columnId) => {
           const column = this.state.columns[columnId];
@@ -100,10 +100,12 @@ Now we head over to `task.jsx` to make our tasks draggable. We `import { Draggab
 
 ```js
 export default class Task extends React.Component {
-  render() {
+  render() { 
+    return (
     <Draggable draggableId={this.props.task.id} index={this.props.index}>
-      return <Container>{this.props.task.content}</Container>
+      <Container>{this.props.task.content}</Container>
     </Draggable>
+    )
   }
 }
 ```
