@@ -146,7 +146,7 @@ export default class Task extends React.Component {
       {(provided) => (
         <Container
           {...provided.draggableProps}
-          {...provided.draggableProps}
+          {...provided.dragHandleProps}
           innerRef={provided.innerRef}
         >{this.props.task.content}</Container>
       )}
