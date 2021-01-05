@@ -98,7 +98,7 @@ class InnerList extends React.Component {
   shouldComponentUpdate(nextProps) {
     if (
       nextProps.column === this.props.column &&
-      nextPropsProps.taskMap === this.props.taskMap &&
+      nextProps.taskMap === this.props.taskMap &&
       nextProps.index === this.props.index
     ) {
       return false;
